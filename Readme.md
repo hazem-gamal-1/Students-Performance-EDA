@@ -2,7 +2,7 @@
 
 ### Students-Performance-EDA
 
-This exploratory data analysis (EDA) examines the factors influencing student performance in exams by analyzing a dataset of 1,000 students. The study focuses on demographic variables, including **gender**, **race/ethnicity**, **parental education**, and **lunch type**, to understand their impact on scores in **math**, **reading**, and **writing**. By uncovering key insights into these factors, this analysis aims to highlight the relationships between demographic characteristics and academic outcomes.
+This exploratory data analysis (EDA) examines the factors influencing student performance in exams. The study focuses on demographic variables, including **gender**, **race/ethnicity**, **parental education**, and **lunch type**, to understand their impact on scores in **math**, **reading**, and **writing**. By uncovering key insights into these factors, this analysis aims to highlight the relationships between demographic characteristics and academic outcomes.
 
 
 # Table of Contents of the EDA
